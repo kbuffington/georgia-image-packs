@@ -16,4 +16,6 @@ While the flags images are unlikely to be updated, both artist and record labels
 
 #### fanart.tv
 
-Almost all of these files can be downloaded from [fanart.tv](https://fanart.tv).
+Almost all of these artist and record label logos files can be downloaded from [fanart.tv](https://fanart.tv). They require standard settings for the image types, and every image is reviewed. My label packs will include every white record label image, and most white artist logos if the artist/band seems popular enough to include.
+
+I made a decision to not include color logos because of the potential for visual clashing with the auto-generated themes. If you would like to use color logos for artists, they can be stored in a folder called `/images/artistlogos color/`.
