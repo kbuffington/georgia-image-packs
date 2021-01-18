@@ -8,6 +8,9 @@ These packs will all need to be extracted to a folder called `images` which you 
 
 When everything is properly installed your image folder should be setup like [this](https://i.imgur.com/40YdD4l.png). (Ignore Band Logos color as it isn't used by this theme, or included here.)
 
+#### Note for users of the Georgia theme
+
+The images here should NOT be installed inside the `/georgia/` folder as it has it's own theme images which need to be kept separate from these.
 
 ## Updates
 
