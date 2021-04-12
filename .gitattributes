@@ -1,0 +1,2 @@
+artistlogos.zip filter=lfs diff=lfs merge=lfs -text
+recordlabel.zip filter=lfs diff=lfs merge=lfs -text
