@@ -10,11 +10,15 @@ When everything is properly installed your image folder should be setup like [th
 
 #### Note for users of the Georgia theme
 
-The images here should NOT be installed inside the `/georgia/` folder as it has it's own theme images which need to be kept separate from these.
+The images here should NOT be installed inside the `/georgia/` folder as it has its own theme images which need to be kept separate from these.
+
+## Artist Logos Download Location
+
+The current Artistlogo.zip archive has continued to grow in size and currently encompasses over 2500 images, and is over 107MB zipped up (and heavily compressed beforehand). Github has a limit of 100MB for file sizes which means it can't be stored normally here. In earlier releases I had split the archive into multiple parts (.zip, .z00, etc.), but this was confusing and prone to user error. Going forward the artistlogo.zip can be downloaded from [this link](https://www.dropbox.com/s/4fwoeo7zlrxcj31/artistlogos.zip?dl=1). The updated "monthly" packs will still be stored on github.
 
 ## Updates
 
-While the flags images are unlikely to be updated, both artist and record labels will be updated frequently. As these archives are rather large, you shouldn't need to download them all again when 95% of the images are unchanged. This "Monthly Image Packs" folder contains downloads of just the files updated since the last time you downloaded the images. Just grab the archives you need. If you can't remember the last time you grabbed the images, there is a file in each folder titled something like `!Last Downloaded-2018-09-02`. Grab everything after that date and you should be good. If that file doesn't exist you have the original release from 2018-06-29.
+While the flags images are unlikely to be updated, both artist and record labels will be updated frequently. As these archives are rather large, you shouldn't need to download them all again when 98% of the images are unchanged. The "Monthly Image Packs" folder contains downloads of just the files updated since the last time you downloaded the images. Just grab the archives you need. If you can't remember the last time you grabbed the images, there is a file in each folder titled something like `!Last Downloaded-2018-09-02`. Grab everything after that date and you should be good. If that file doesn't exist you have the original release from 2018-06-29.
 
 
 #### fanart.tv

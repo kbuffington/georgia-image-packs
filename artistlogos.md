@@ -1,0 +1,3 @@
+# Where did artistlogos.zip go?
+
+The current Artistlogo.zip archive has continued to grow in size and currently encompasses over 2500 images, and is over 107MB zipped up (and heavily compressed beforehand). Github has a limit of 100MB for file sizes which means it can't be stored normally here. In earlier releases I had split the archive into multiple parts (.zip, .z00, etc.), but this was confusing and prone to user error. Going forward the artistlogo.zip can be downloaded from [this link](https://www.dropbox.com/s/4fwoeo7zlrxcj31/artistlogos.zip?dl=1). The updated "monthly" packs will still be stored on github.
