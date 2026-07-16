@@ -14,7 +14,7 @@ The images here should NOT be installed inside the `/georgia/` folder as it has 
 
 ## Artist Logos Download Location
 
-The current Artistlogo.zip archive has continued to grow in size and currently encompasses over 2500 images, and is over 107MB zipped up (and heavily compressed beforehand). Github has a limit of 100MB for file sizes which means it can't be stored normally here. In earlier releases I had split the archive into multiple parts (.zip, .z00, etc.), but this was confusing and prone to user error. Going forward the artistlogo.zip can be downloaded from [this link](https://www.dropbox.com/s/4fwoeo7zlrxcj31/artistlogos.zip?dl=1). The updated "monthly" packs will still be stored on github.
+The current Artistlogo.zip archive has continued to grow in size and currently encompasses over 3000 images, and is over 129MB zipped up (and heavily compressed beforehand). Github has a limit of 100MB for file sizes which means it can't be stored normally here. In earlier releases I had split the archive into multiple parts (.zip, .z00, etc.), but this was confusing and prone to user error. Going forward the artistlogo.zip can be downloaded from [this link](https://www.dropbox.com/scl/fi/buqp9fzmjlf591xk232sg/artistlogos.zip?rlkey=uu3t28149eiaixz91deifus4a&dl=1). The updated "monthly" packs will still be stored on github.
 
 ## Updates
 
